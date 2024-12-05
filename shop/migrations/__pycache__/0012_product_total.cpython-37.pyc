@@ -1,0 +1,8 @@
+B
+
+    �r\�  �               @   s&   d dl mZmZ G dd� dej�ZdS )�    )�
+migrations�modelsc               @   s,   e Zd ZdgZejddejdd�d�gZdS )�	Migration)�shopZ0011_auto_20220402_1640�product�totalr   )�default)�
+model_name�name�fieldN)	�__name__�
+__module__�__qualname__�dependenciesr   �AddFieldr   �IntegerField�
+operations� r   r   �ME:\anish_django_pro\django_sites\bakery\shop\migrations\0012_product_total.pyr      s
+   r   N)�	django.dbr   r   r   r   r   r   r   �<module>   s   

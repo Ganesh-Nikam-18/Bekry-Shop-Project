@@ -1,0 +1,13 @@
+B
+
+    V-u\�  �               @   s.   d dl mZmZ d dlZG dd� dej�ZdS )�    )�
+migrations�modelsNc            	   @   st   e Zd ZdgZejddejej	j
+jd�d�ejddejdd�d�ej
+ddejdd�d�ej
+dd	ejd
+d�d�gZdS )�	Migration)�shopZ0012_product_total�orders�pub_date)�default)�
+model_name�name�field�qtyr   �product�total�   N)�__name__�
+__module__�__qualname__�dependenciesr   �AddFieldr   �
+DateTimeField�django�utils�timezone�now�IntegerField�
+AlterField�
+operations� r   r   �RE:\anish_django_pro\django_sites\bakery\shop\migrations\0013_auto_20220402_1743.pyr      s"   r   )�	django.dbr   r   Zdjango.utils.timezoner   r   r   r   r   r   �<module>   s   

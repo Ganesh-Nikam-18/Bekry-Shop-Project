@@ -1,0 +1,13 @@
+B
+
+     yk\�  �               @   s&   d dl mZmZ G dd� dej�ZdS )�    )�
+migrations�modelsc               @   sp   e Zd ZdgZejddejddd�fdejdd	�fd
+ejddd
+�fdejddd
+�fdejddd
+�fgd�gZ	dS )�	Migration)�shopZ0002_auto_20220402_1122�Contact�msg_idTF)�primary_key�	serialize�name�2   )�
+max_length�email� �F   )�defaultr   �phone�desci�  )r
+   �fieldsN)
+�__name__�
+__module__�__qualname__�dependenciesr   �CreateModelr   �	AutoField�	CharField�
+operations� r   r   �GE:\anish_django_pro\django_sites\bakery\shop\migrations\0003_contact.pyr      s   r   N)�	django.dbr   r   r   r   r   r   r   �<module>   s   

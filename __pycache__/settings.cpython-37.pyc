@@ -1,0 +1,11 @@
+B
+    8&r\Ô  ã               @   sÜ   d dl Z e j e j e j e¡¡¡ZdZdZg Zdddddd	d
+gZ	dddddddgZ
+dZddgddddddgidœgZdZdde j ed¡dœiZd d!id d"id d#id d$igZd%Zd&ZdZdZdZd'Zd(Ze j ed)¡ZdS )*é    Nz29h_#wy*6)%#ug3-uv@7xlryan5a36rqe^j5a$-i0@fo9szu=%nTzshop.apps.ShopConfigzdjango.contrib.adminzdjango.contrib.authzdjango.contrib.contenttypeszdjango.contrib.sessionszdjango.contrib.messageszdjango.contrib.staticfilesz-django.middleware.security.SecurityMiddlewarez4django.contrib.sessions.middleware.SessionMiddlewarez)django.middleware.common.CommonMiddlewarez)django.middleware.csrf.CsrfViewMiddlewarez7django.contrib.auth.middleware.AuthenticationMiddlewarez4django.contrib.messages.middleware.MessageMiddlewarez6django.middleware.clickjacking.XFrameOptionsMiddlewarezmac.urlsz/django.template.backends.django.DjangoTemplateszmac/templatesZcontext_processorsz(django.template.context_processors.debugz*django.template.context_processors.requestz+django.contrib.auth.context_processors.authz3django.contrib.messages.context_processors.messages)ÚBACKENDZDIRSÚAPP_DIRSÚOPTIONSzmac.wsgi.applicationÚdefaultzdjango.db.backends.sqlite3z
+db.sqlite3)ÚENGINEÚNAMEr   zHdjango.contrib.auth.password_validation.UserAttributeSimilarityValidatorz>django.contrib.auth.password_validation.MinimumLengthValidatorz?django.contrib.auth.password_validation.CommonPasswordValidatorz@django.contrib.auth.password_validation.NumericPasswordValidatorzen-usZUTCz/static/z/media/Zmedia)ÚosÚpathÚdirnameÚabspathÚ__file__ZBASE_DIRÚ
+SECRET_KEYÚDEBUGÚALLOWED_HOSTSÚINSTALLED_APPSÚ
+MIDDLEWAREÚROOT_URLCONFÚ	TEMPLATESÚWSGI_APPLICATIONÚjoinÚ	DATABASESÚAUTH_PASSWORD_VALIDATORSÚLANGUAGE_CODEÚ	TIME_ZONEÚUSE_I18NÚUSE_L10NÚUSE_TZÚ
+STATIC_URLÚ	MEDIA_URLÚ
+MEDIA_ROOT© r    r    ú7E:\anish_django_pro\django_sites\bakery\mac\settings.pyÚ<module>   sV   
+
+

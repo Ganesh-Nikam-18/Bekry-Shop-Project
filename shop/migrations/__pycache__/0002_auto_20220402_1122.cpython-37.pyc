@@ -1,0 +1,16 @@
+B
+
+    ��c\d  �               @   s&   d dl mZmZ G dd� dej�ZdS )�    )�
+migrations�modelsc               @   s�   e Zd ZdgZejddd�ejddejddd�d	�ejdd
+ejddd�d	�ejdd
+ej	ddd�d	�ejddej
+dd�d	�ejddejddd�d	�ejddejdd�d	�gZdS )�	Migration)�shop�0001_initial�productZproduct_desc)�
+model_name�name�category� �2   )�default�
+max_length)r   r	   �field�descznothing is to describei,  �imagezshop/images)r
+   �	upload_to�pricer   )r
+   �subcategory�product_name)r   N)
+�__name__�
+__module__�__qualname__�dependenciesr   �RemoveField�AddFieldr   �	CharField�
+ImageField�IntegerField�
+AlterField�
+operations� r!   r!   �RE:\anish_django_pro\django_sites\bakery\shop\migrations\0002_auto_20220402_1122.pyr      s8   r   N)�	django.dbr   r   r   r!   r!   r!   r"   �<module>   s   
